@@ -1,0 +1,6 @@
+[submodule "OrderApp"]
+	path = OrderApp
+	url = git@github.com:Davpyu/OrderApp.git
+[submodule "InventoryApp"]
+	path = InventoryApp
+	url = git@github.com:Davpyu/InventoryApp.git
